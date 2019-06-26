@@ -9,9 +9,9 @@
 ## How to use
 * Open the .html file in your browser
 
-## Special Features:
-* Lists - manage your to-do items more effectively.
-* Real-time counter of done/not done
+## Special Features
+* <b>Lists</b> - manage your to-do items more effectively.
+* <b>Real-time counter</b> of done/not done
 * Support Editing list name
 * click for checked/unchecked but not directly delete the item.
 
